@@ -1,0 +1,32 @@
+* {
+    font-family: Helvetica, Arial, "Times New Roman";
+}
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+}
+.header-logo-p {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
+}
+.header-a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.header-logo-content {
+    display: flex;
+    align-items: center;
+}
+.header-links {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
