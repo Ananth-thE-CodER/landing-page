@@ -188,3 +188,13 @@ blockquote i {
     flex: 1 0 auto;
     width: 59%;
  }
+ .footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+ }
+ .footer p {
+    color: #F9FAF8;
+ }
